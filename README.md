@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1zzpmc8PfW6XMoMCDau3XJtc_XO59I4Tj/edit?usp=dr
 
 | Создание тг бота 🥟|
 | -----------|
-| https://colab.research.google.com/drive/1sUxfhphkH8zcZoDsa022c9kuykWrS55S#scrollTo=djLW8jnwF7NX |
+| https://colab.research.google.com/drive/1oaOkLY0C0dttvRj0x1fYV4M2zOgzS6s7?authuser=1 |
 
 | Работа с другими ОС 🥑|
 | -----------|
